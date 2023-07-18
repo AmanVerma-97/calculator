@@ -1,0 +1,59 @@
+p{
+    font-size: 1.1rem;
+}
+
+#calmain{
+    height: auto;
+    min-width: 200px;
+    width: 600px;
+    margin: auto;
+    border-radius: 10%;
+    border: 5px solid maroon;
+    background: linear-gradient(to right, #81cbef, #95e3b6);
+    padding-bottom: 20px;
+}
+
+.center{
+    text-align: center;
+}
+
+.caloutline{
+    width: 90%;
+    min-height: 40px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.caloutline1{
+    width: 90%;
+    min-height: 40px;
+    margin: auto;
+    margin-top: 5px;
+    /*border: 2px solid black;*/
+}
+
+.four{
+    display: flex;
+}
+
+.part4{
+    border: 2px solid gray;
+    width:24%;
+    border-radius: 50%;
+    margin-left: 2.5px;
+    cursor: pointer;
+}
+
+.part4:hover{
+    background-color:lightskyblue;
+    color:black
+}
+
+#name{
+    background-color:black;
+    color: white;
+}
+#display{
+    height:60px;
+}
